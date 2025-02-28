@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#kadimacleo92@gmail.com
 
 gcloud compute networks subnets list --network default
 
